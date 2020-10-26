@@ -1,4 +1,4 @@
-pointer.o:
+all:
 	gcc -o pointer.o pointer.c
 
 run:
